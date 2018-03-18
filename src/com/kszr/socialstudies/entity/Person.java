@@ -1,4 +1,4 @@
-package com.kszr.sociallibrary.entity;
+package com.kszr.socialstudies.entity;
 
 /**
  * A simulation of a person using a Thread.
